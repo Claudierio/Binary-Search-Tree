@@ -1,0 +1,1 @@
+Criação de uma arvore BST(Binary Search Tree) em linguagem C para a matéria de Estrutura de Dados 2.
